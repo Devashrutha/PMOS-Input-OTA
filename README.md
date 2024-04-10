@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">90nm PMOS input OTA</h3>
+  <h3 align="center">90nm and 45nm PMOS input OTA</h3>
   <p align="center">
     Schematic and Layout design using Cadence Virtuoso
     <br />
